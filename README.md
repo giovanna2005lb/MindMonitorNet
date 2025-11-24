@@ -1,0 +1,1 @@
+Versão atualizada para .NET 8
